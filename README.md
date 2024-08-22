@@ -5,4 +5,4 @@ a fresh test connecting with R Studio
 
 a bit more to tell.
 
-Nearing the end.
+Nearing the end of the day.
