@@ -6,3 +6,5 @@ a fresh test connecting with R Studio
 a bit more to tell.
 
 Nearing the end of the day.
+
+### But we can add a final touch.
